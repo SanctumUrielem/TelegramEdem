@@ -37,7 +37,7 @@ class BotHandler:
         return last_update
 
 ## TOKEN - INSERT YOUR TOKEN HERE
-token = "506193344:AAG_NzmOYrKNYhNULHWVV1HHmu-o-zC29fY"
+token = "388432982:AAFT4FDr7YPQWG91iJoJhfIHmHktJqwA1kk"
 greet_bot = BotHandler(token)  
 greetings = ('здравствуй', 'привет', 'ку', 'здорово')  
 now = datetime.datetime.now()
